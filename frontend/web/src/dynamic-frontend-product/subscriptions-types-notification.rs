@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\frontend\web\src\dynamic-frontend-product\subscriptions-types-notification.rs
+// Generated at: 2025-10-25T13:41:18.895Z
